@@ -1,5 +1,5 @@
 # 🐟 PhishGuardian 🐟
-PhishGuardian is a web-based phishing detection too that allows users to submit a URL and receive an assessment indicating whether the website may be a phishing scam. This application uses Python to inspect links for common phishing indicators and presents the results through a website built with HTML, CSS, and JavaScript.
+PhishGuardian is a web-based phishing detection tool that allows users to submit a URL and receive an assessment indicating whether the website may be a phishing scam. This application uses Python to inspect links for common phishing indicators and presents the results through a website built with HTML, CSS, and JavaScript.
 
 # 💻 How it Works 💻
 When a user enters a URL into the website:
