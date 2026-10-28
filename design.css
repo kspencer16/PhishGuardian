@@ -14,8 +14,8 @@
 }
 
 .body {
-    min-height: 700px;
-    background-image: url('../phishphoto/test.png');
+    min-height: 100px;
+    background-image: url('../phishphoto/background.gif');
     background-size: cover;
     background-position: center;
 }
