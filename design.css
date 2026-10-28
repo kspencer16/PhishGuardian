@@ -1,0 +1,22 @@
+.title {
+    width: 100%;
+    min-height: 300px;
+    height: auto;
+    padding: 10px 0px;
+    margin-top: 50px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    background-color:aquamarine;
+}
+
+.body {
+    min-height: 700px;
+    background-image: url('../phishphoto/test.png');
+    background-size: cover;
+    background-position: center;
+}
+
